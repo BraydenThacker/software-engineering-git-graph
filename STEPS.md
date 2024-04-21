@@ -12,3 +12,5 @@ Step 9: Update Steps
 Step 10: Update Steps
 Step 11: Merge bug-fix-experimental into bug-fix
 Step 12: Update Steps
+Step 13: Merge bug-fix into main
+Step 14: Update STEPS and Finish Assignment
